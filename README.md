@@ -1,4 +1,7 @@
-`                                           
+<table>
+<tr>
+<td valign="top">
+```                                       
                   ⇧|⇧|⇦⇩||⇩⇧|||←⇧⇨               
               ⇧⇧|⇧⇧|\\/\|||||\|⇩⇦⇩⇩⇨⇦⇩⇧||\       
            ⇧⇩⇦⇨⇦⇧\||\⇧⇧|||\⇧⇧/\\⇧⇩⇧⇩⇩|⇧\//\\     
@@ -43,10 +46,15 @@
  ^--^<<^~--:,,.               ....,,::::-~~-----~
  ::^<<^^^~---:,....         .....,:::::::-^~~-:,,
                                        
-`
+
+</td>
+
+<td valign="top" width="420">
 #  About Me:
 Hi, I'm **Nabeel Ali Khan** <br><br>I'm a software developer and AI enthusiast passionate about building practical solutions that solve real-world problems. I enjoy turning ideas into scalable products, exploring new technologies, and continuously improving my craft. Whether it's developing intelligent applications, designing reliable backend systems, or creating tools that make people's lives easier, I love building software with purpose.<br><br>I'm always learning, experimenting, and working on projects that challenge me to grow as a developer.<br>
-
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabeelalikhan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabeel03103n@gmail.com) 
