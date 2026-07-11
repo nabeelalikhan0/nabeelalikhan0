@@ -11,7 +11,7 @@
       ######+++++++++++++++++++++++++++###     my craft. Whether it's developing intelligent applications, designing 
       #####+++++++++++++++++++++++++++++##     reliable backend systems, or creating tools that make people's lives 
        ###+++++++++####+++++++++++++++++#      easier, I love building software with purpose.<br><br>I'm always learning,
-     ++###+############++++++++++++++++#+      experimenting, and working on projects that challenge me to grow as a developer.<br>
+     ++###+############++++++++++++++++#+      experimenting, and working on projects that challenge me to grow as a developer
     ++++##+###############+++############## 
      +++#++#################################
      +++#++##############++++###############
