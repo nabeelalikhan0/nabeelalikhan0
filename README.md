@@ -83,3 +83,8 @@ Showcasing my core work in Artificial Intelligence and Web Architecture.
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</div>
