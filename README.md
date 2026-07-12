@@ -17,13 +17,17 @@ Hi, I'm <b>Nabeel Ali Khan</b> <br><br>I'm a software developer and AI enthusias
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nabeelalikhan0&theme=tokyo-night)
 
 
-<center>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nabeelalikhan0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nabeelalikhan0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabeelalikhan0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</center>
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=nabeelalikhan0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com/?user=nabeelalikhan0&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nabeelalikhan0&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
 
 
 ### ✍️ Random Dev Quote
