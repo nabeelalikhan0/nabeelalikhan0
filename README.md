@@ -49,7 +49,7 @@ Showcasing my core work in Artificial Intelligence and Web Architecture.
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **ChanakyaAI** | India's first government-integrated AI platform. | [Visit Site](https://chanakyaai.in) |
+| **ChanakyaAI** | An AI platform. | [Visit Site](https://chanakyaai.in) |
 | **Edviora** | Next-gen educational platform currently in production. | [Visit Site](https://edviora.online) |
 
 ---
