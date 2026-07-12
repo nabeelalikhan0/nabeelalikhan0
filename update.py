@@ -8,4 +8,5 @@ subprocess.run(["git","add","."])
 cdt = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 commit = subprocess.run(["git","commit","-m",f"{cdt}"])
-print(commit)
+push = subprocess.run(["git","push"])
+print("Successfull 1")
