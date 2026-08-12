@@ -50,8 +50,10 @@ Showcasing my core work in Artificial Intelligence and Web Architecture.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=nabeelalikhan0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabeelalikhan0&theme=dark" alt="GitHub Streak" /></a>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=nabeelalikhan0&theme=dark)"/>
 </p>
 
 <p align="center">
