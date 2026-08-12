@@ -49,17 +49,28 @@ Showcasing my core work in Artificial Intelligence and Web Architecture.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=nabeelalikhan0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=nabeelalikhan0&theme=dark)"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.shion.dev/api?username=nabeelalikhan0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nabeelalikhan0&theme=tokyonight&layout=compact&hide_border=true" />
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=nabeelalikhan0&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
+<p align="center">
+  <img
+    width="40%"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=nabeelalikhan0&theme=tokyonight&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 <div align="center">
 
